@@ -1,0 +1,8 @@
+.movie {
+    display: flex;
+    align-items: center;
+}
+
+.form_movie {
+    margin-left: 40px;
+}
